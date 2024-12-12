@@ -19,10 +19,11 @@ SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração.\
 [COMPONENTE 14]. Combine portas AND, OR e NOT para criar a lógica de um detector de paridade ímpar
 (entrada com número ímpar de 1s)\
 ![WhatsApp Image 2024-12-10 at 12 36 31 PM](https://github.com/user-attachments/assets/b124d51c-3cdb-4c5f-8e2a-062aa24a5e1b)
-
 [COMPONENTE 15]. Resolva um problema de otimização lógica utilizando mapas de Karnaugh e
 implemente o circuito otimizado.\
 [COMPONENTE 16]. Decodificador de 7 Segmentos: Projete um circuito que converta um número binário
 de 4 bits para os sinais necessários para acionar um display de 7 segmentos (formato hexadecimal).\
+![WhatsApp Image 2024-12-10 at 12 35 08 PM](https://github.com/user-attachments/assets/b0bac414-39f5-47e0-8bf0-e53c61b4ec89)
 [COMPONENTE 17]. Detector de Número Primo: Crie um circuito que detecte se uma entrada binária de 4
 bits representa um número primo. Utilize portas lógicas e mapas de Karnaugh para simplificar o circuito.
+![WhatsApp Image 2024-12-10 at 12 35 52 PM](https://github.com/user-attachments/assets/c9d6d797-e96c-4aca-9121-7d85d3e8a04a)
