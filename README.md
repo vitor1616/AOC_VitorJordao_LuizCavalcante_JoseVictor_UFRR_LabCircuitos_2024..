@@ -18,6 +18,8 @@ SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração.\
 [COMPONENTE 13]. Contador Síncrono.\
 [COMPONENTE 14]. Combine portas AND, OR e NOT para criar a lógica de um detector de paridade ímpar
 (entrada com número ímpar de 1s)\
+![WhatsApp Image 2024-12-10 at 12 36 31 PM](https://github.com/user-attachments/assets/b124d51c-3cdb-4c5f-8e2a-062aa24a5e1b)
+
 [COMPONENTE 15]. Resolva um problema de otimização lógica utilizando mapas de Karnaugh e
 implemente o circuito otimizado.\
 [COMPONENTE 16]. Decodificador de 7 Segmentos: Projete um circuito que converta um número binário
