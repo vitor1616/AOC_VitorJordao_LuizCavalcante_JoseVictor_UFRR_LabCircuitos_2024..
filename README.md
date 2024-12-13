@@ -10,9 +10,9 @@ Este repositório contém os circuitos feitos para o laboratório de circuitos d
 [COMPONENTE 04]. Somador de 8 bits que recebe um valor inteiro e soma com o valor 4.\
 ![2024-12-12 20_35_30-Logisim_ main de 4 Somador de 8 bits com mais 4](https://github.com/user-attachments/assets/8970e834-9536-46f2-a7ae-8c40290660af)\
 [COMPONENTE 05]. Memória ROM de 8 bits.\
-![2024-12-12 20_38_11-Logisim_ main de 5 Memoria ROM](https://github.com/user-attachments/assets/8f70692d-e035-4fd2-94e4-966b211c579d)\
+![image](https://github.com/user-attachments/assets/8dcb7559-dc4c-49ce-b02d-f2ba6b8895ab)\
 [COMPONENTE 06]. Memória RAM de 8 bits.\
-![2024-12-12 20_39_50-Logisim_ RAM 1x8 de 6 RAM](https://github.com/user-attachments/assets/52203242-3da5-44e6-8837-193ae0017636)\
+![Captura de tela 2024-12-12 223135](https://github.com/user-attachments/assets/17c6021a-d2ab-4751-bea9-fe815d69d765)\
 [COMPONENTE 07]. Banco de Registradores de 8 bits.\
 ![2024-12-12 20_40_50-Logisim_ Registrador de 7 Banco de Registradores de 8 bits](https://github.com/user-attachments/assets/120692a6-a480-4da5-82ef-36a04f4aed56)\
 [COMPONENTE 08]. Somador de 8 bits.\
