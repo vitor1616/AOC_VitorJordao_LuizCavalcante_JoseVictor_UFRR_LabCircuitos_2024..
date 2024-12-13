@@ -14,7 +14,7 @@ Este repositório contém os circuitos feitos para o laboratório de circuitos d
 [COMPONENTE 06]. Memória RAM de 8 bits.\
 ![Captura de tela 2024-12-12 223135](https://github.com/user-attachments/assets/17c6021a-d2ab-4751-bea9-fe815d69d765)\
 [COMPONENTE 07]. Banco de Registradores de 8 bits.\
-![2024-12-12 20_40_50-Logisim_ Registrador de 7 Banco de Registradores de 8 bits](https://github.com/user-attachments/assets/120692a6-a480-4da5-82ef-36a04f4aed56)\
+![image](https://github.com/user-attachments/assets/ab012cce-adc9-4b0b-9108-0fff29c48e24)\
 [COMPONENTE 08]. Somador de 8 bits.\
 ![2024-12-12 20_42_02-Logisim_ main de 8 Somador](https://github.com/user-attachments/assets/20a09636-57dd-402b-b35d-8f5adfdba08f)\
 [COMPONENTE 09]. Construa um detector de sequência binária para identificar a sequência "101" em um
@@ -26,9 +26,9 @@ SHIFT de 2 bits à esquerda, SHIFT de bits à direita, soma e subtração.\
 [COMPONENTE 11]. Extensor de sinal de 4 bits para 8 bits.\
 ![2024-12-12 20_44_17-Logisim_ main de 11 Extensor de Sinal](https://github.com/user-attachments/assets/587b8eb8-07ac-42fd-bfef-c395e379f2fe)\
 [COMPONENTE 12]. Implemente uma maquina de estados utilizando portas lógicas.\
-![2024-12-12 20_45_41-Logisim_ main de 12 Máquina de Estados](https://github.com/user-attachments/assets/75bd44eb-9bf3-4131-ad75-56e901d21cf8)\
+![image](https://github.com/user-attachments/assets/bf91077b-1756-40cf-946b-7647ef403473)\
 [COMPONENTE 13]. Contador Síncrono.\
-![2024-12-12 20_46_54-Logisim_ main de 13 Contador Sincrono](https://github.com/user-attachments/assets/272f776e-3017-4fcd-9296-f53b98be5780)\
+![image](https://github.com/user-attachments/assets/4745fd3d-6b1f-4fd4-be34-c1ab973691fd)\
 [COMPONENTE 14]. Combine portas AND, OR e NOT para criar a lógica de um detector de paridade ímpar
 (entrada com número ímpar de 1s)\
 ![WhatsApp Image 2024-12-10 at 12 36 31 PM](https://github.com/user-attachments/assets/b124d51c-3cdb-4c5f-8e2a-062aa24a5e1b)
